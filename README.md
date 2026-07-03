@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
