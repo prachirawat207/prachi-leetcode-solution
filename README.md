@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 ## Trie
 |  |
@@ -26,5 +27,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
