@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
