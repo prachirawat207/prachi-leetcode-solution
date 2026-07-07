@@ -29,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Trie
@@ -84,9 +85,19 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
