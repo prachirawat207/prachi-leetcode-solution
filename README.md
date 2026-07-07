@@ -30,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -47,8 +48,8 @@
 | [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
-| [1781-sum-of-beauty-of-all-substrings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
