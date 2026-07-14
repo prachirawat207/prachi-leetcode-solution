@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
@@ -87,12 +88,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
