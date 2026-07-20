@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0126-word-ladder-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
