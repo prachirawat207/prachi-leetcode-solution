@@ -22,6 +22,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
