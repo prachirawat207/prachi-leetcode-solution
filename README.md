@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -95,6 +96,7 @@
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -121,6 +124,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -134,6 +138,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
