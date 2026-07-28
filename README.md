@@ -98,6 +98,7 @@
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0743-network-delay-time](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,4 +158,9 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
