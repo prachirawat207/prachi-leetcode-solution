@@ -121,6 +121,7 @@
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -139,6 +140,7 @@
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -146,6 +148,7 @@
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -153,6 +156,7 @@
 | [0743-network-delay-time](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
