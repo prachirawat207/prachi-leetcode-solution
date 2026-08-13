@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
