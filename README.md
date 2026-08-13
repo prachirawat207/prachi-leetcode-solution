@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -211,4 +212,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
