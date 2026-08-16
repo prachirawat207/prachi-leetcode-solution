@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -49,6 +51,7 @@
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -213,4 +217,20 @@
 | ------- |
 | [0050-powx-n](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1922-count-good-numbers) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
