@@ -18,6 +18,7 @@
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -176,6 +178,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0126-word-ladder-ii) |
 ## Memoization
 |  |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
