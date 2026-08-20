@@ -44,6 +44,7 @@
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0126-word-ladder-ii) |
 ## Memoization
 |  |
