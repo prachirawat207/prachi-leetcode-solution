@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
@@ -247,16 +248,19 @@
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
