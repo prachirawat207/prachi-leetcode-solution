@@ -244,4 +244,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
