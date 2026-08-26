@@ -154,6 +154,7 @@
 | [0098-validate-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0785-is-graph-bipartite) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -258,6 +260,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -265,6 +268,15 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
