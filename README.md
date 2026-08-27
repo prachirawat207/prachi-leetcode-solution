@@ -51,6 +51,7 @@
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
@@ -94,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -255,6 +257,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -271,6 +275,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -279,4 +284,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
