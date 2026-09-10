@@ -23,6 +23,7 @@
 | [0127-word-ladder](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0126-word-ladder-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -299,4 +302,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
