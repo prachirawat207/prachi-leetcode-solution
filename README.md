@@ -48,6 +48,7 @@
 | [0040-combination-sum-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
