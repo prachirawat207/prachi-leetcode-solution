@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/2029-stone-game-ix) |
@@ -49,6 +50,7 @@
 | [0040-combination-sum-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0542-01-matrix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
@@ -81,6 +84,7 @@
 | [0205-isomorphic-strings](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -92,6 +96,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0721-accounts-merge) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -314,5 +319,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
