@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0040-combination-sum-ii) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prachirawat207/prachi-leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
